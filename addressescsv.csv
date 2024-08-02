@@ -1,12 +1,19 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,测速 MB/s
-47.243.91.58,2083,TRUE,HKG,Asia Pacific,Hong Kong,76 ms,31.66
-8.210.126.88,2053,TRUE,HKG,Asia Pacific,Hong Kong,73 ms,26.78
-129.154.223.89,15800,TRUE,NRT,Asia Pacific,Tokyo,72 ms,23.11
-47.57.12.238,34237,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,23.1
-104.215.16.121,443,TRUE,KIX,Asia Pacific,Osaka,84,32.67
-47.243.169.90,2083,TRUE,HKG,Asia Pacific,Hong Kong,69 ms,22.9
-52.199.110.110,34237,TRUE,NRT,Asia Pacific,Tokyo,110 ms,22.74
-129.154.221.203,34237,TRUE,ICN,Asia Pacific,Seoul,72 ms,22.69
+138.2.75.91,443,TRUE,SIN,Asia Pacific,Singapore,102 ms,16.1
+13.250.131.37,443,TRUE,SIN,Asia Pacific,Singapore,103 ms,15.64
+123.56.15.84,443,TRUE,SJC,North America,San Jose,45 ms,10.74
+141.148.242.11,443,TRUE,FRA,Europe,Frankfurt,202 ms,7.94
+43.154.96.33,443,TRUE,HKG,Asia Pacific,Hong Kong,69 ms,7.16
+141.147.77.216,443,TRUE,FRA,Europe,Frankfurt,228 ms,6.95
+193.123.58.138,443,TRUE,FRA,Europe,Frankfurt,228 ms,6.3
+35.158.128.204,443,TRUE,FRA,Europe,Frankfurt,268 ms,5.57
+141.148.235.84,443,TRUE,FRA,Europe,Frankfurt,203 ms,5.37
+20.243.104.80,443,TRUE,NRT,Asia Pacific,Tokyo,119 ms,4.45
+130.162.228.244,443,TRUE,FRA,Europe,Frankfurt,198 ms,3.75
+34.129.11.233,443,TRUE,SYD,Oceania,Sydney,303 ms,3.29
+172.208.44.21,443,TRUE,IAD,North America,Ashburn,243 ms,2.28
+172.247.21.125,443,TRUE,LAX,North America,Los Angeles,222 ms,0.76
+47.57.13.107,443,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,0.74
 18.167.194.154,443,TRUE,HKG,Asia Pacific,Hong Kong,76 ms,21.74
 47.236.164.215,2083,TRUE,SIN,Asia Pacific,Singapore,126 ms,19.93
 47.236.130.95,2053,TRUE,SIN,Asia Pacific,Singapore,127 ms,19.78
